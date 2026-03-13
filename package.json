@@ -1,0 +1,19 @@
+{
+  "name": "world-of-milousques-frontend",
+  "version": "1.0.0",
+  "description": "Frontend du jeu World of Milousques 2",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
